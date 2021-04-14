@@ -670,4 +670,6 @@ public class RobinhoodApi {
         this.config.setAuthToken(token);
     }
 
+
+
 }
